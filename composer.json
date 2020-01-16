@@ -1,13 +1,13 @@
 {
-  "name": "vendor/package",
-  "description": "",
+  "name": "vendor/ifirlana/laravel-pkg",
+  "description": "firlana",
   "keywords": [],
-  "homepage": "",
+  "homepage": "https://firlana.com",
   "license": "MIT",
   "authors": [
     {
-      "name": "",
-      "email": ""
+      "name": "ikhlas firlana",
+      "email": "ikhlas@firlana.com"
     }
   ],
   "require": {
